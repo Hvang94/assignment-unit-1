@@ -1,5 +1,5 @@
 /* Add a background color to the header element */
-head{
+header{
     background-color: yellow;
 }
 

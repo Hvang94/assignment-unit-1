@@ -1,12 +1,7 @@
 /* Add a background color to the header element */
-header{
-    background-color: yellow;
-}
 
 /* Add a fun background color to the main element */
-main{
-    background-color: purple;
-}
+
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
@@ -16,3 +11,26 @@ main{
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+header{
+    background-color: yellow;
+    text-align: center;
+    color: black;
+}
+
+main{
+    background-color: purple;
+}
+
+.profile-picture{
+    display: flex;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+}

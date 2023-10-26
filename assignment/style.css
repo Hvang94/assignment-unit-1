@@ -1,4 +1,7 @@
 /* Add a background color to the header element */
+head{
+    background-color: yellow;
+}
 
 /* Add a fun background color to the main element */
 

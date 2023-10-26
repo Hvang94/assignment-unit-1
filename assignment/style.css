@@ -25,6 +25,7 @@ main{
 
 .profile-picture{
     display: flex;
+    margin: center;
 }
 
 footer{

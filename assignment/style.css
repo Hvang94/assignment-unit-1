@@ -17,13 +17,16 @@ header{
     text-align: center;
     color: purple;
     margin-bottom: -22px;
+    padding: 10px;
 }
 
 main{
     background-color: purple;
     color: yellow;
-}
+    padding-bottom: 15px;
+    padding-bottom: 15px;
 
+}
 .profile-picture{
     display: flex;
 }
@@ -35,6 +38,7 @@ footer{
     font-style: italic;
     font-size: 18px;
     margin-top: -18px;
+    padding: 10px;
 }
 
 img{
@@ -44,4 +48,8 @@ img{
     max-width: 100%;
     max-height: 100%;
     margin-top: 20px;
+}
+
+.about-me{
+    
 }
